@@ -17,8 +17,6 @@ This program is an extension of Yaron Inger's Winamp.py
 
 __author__ = "Avi Press"
 __email__ = "avipress@gmail.com"
-__status__ = "Production"
-__maintainer__ = "Avi Press"
 
 
 def getArtistName(current_track):
